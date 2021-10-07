@@ -1,13 +1,13 @@
 body {
     margin: 25px;
-    background-color: rgb(240,240,240);
+    background-color: rgb(194, 108, 108);
     font-family: arial, sans-serif;
     font-size: 14px;
   }
   
   /* Applies to all <h1>...</h1> elements. */
   p {
-    font-size: 35px;
+    font-size: 50px;
     font-weight: normal;
     margin-top: 5px;
   }
