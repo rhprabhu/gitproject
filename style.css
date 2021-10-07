@@ -11,3 +11,9 @@ body {
     font-weight: normal;
     margin-top: 5px;
   }
+
+.data{
+    width: 60%;
+    float:right;
+    margin-left: 30px;
+}
